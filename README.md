@@ -10,3 +10,6 @@ https://allure.autotests.cloud/project/1301/dashboards
 
 4. Настроить запуск из Allure
 https://allure.autotests.cloud/project/1301/launches
+
+---
+Work №23
