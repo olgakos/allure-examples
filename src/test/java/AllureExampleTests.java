@@ -15,7 +15,7 @@ public class AllureExampleTests extends TestBase {
 
     @Test
     @Owner("olgakos")
-    @Severity(SeverityLevel.MINOR)
+    //@Severity(SeverityLevel.MINOR)
     @Feature("Задачи (issue) в репозитории")
     @DisplayName("Проверка наличия Issue с названием \"TestTitle: generate docs with TestOps\": через листнер")
     void listenerAllureTest() {
@@ -38,7 +38,7 @@ public class AllureExampleTests extends TestBase {
 
     @Test
     @Owner("olgakos")
-    @Severity(SeverityLevel.CRITICAL)
+    //@Severity(SeverityLevel.CRITICAL)
     @Feature("Задачи (issue) в репозитории")
     @DisplayName("Проверка существования Issue с названием \"TestTitle: generate docs with TestOps\": через лямбда степы")
     void LambdaStepsAllureTest() {
