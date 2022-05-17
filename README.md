@@ -1,7 +1,7 @@
-# Демо-пример работы с сервисом Allure TestOps
+#Демо-пример работы с сервисом Allure TestOps
 
 1. Зарегистрироваться/залогиниться на сервисе Allure TestOps 
-
+Cancel changes
 2. Сделать репозиторий Allure Examples
 https://github.com/olgakos/allure-examples
 
@@ -11,5 +11,6 @@ https://allure.autotests.cloud/project/1301/dashboards
 4. Настроить запуск из Allure
 https://allure.autotests.cloud/project/1301/launches
 
----
+----
 Work №23
+2022-05-17
